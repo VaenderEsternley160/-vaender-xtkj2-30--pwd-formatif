@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  background-color: #f5f7fa;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+  background-color: #243b66;
+  color: #ffffff;
+  padding: 20px;
+}
+
+main {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#components h2,
+#pages h2 {
+  color: #1f2d4d;
+  font-size: 20px;
+}
+
+main a {
+  color: #e8943a;
+}
+
+footer {
+  font-size: 12px;
+  text-align: center;
+  background-color: #dfe6f1;
+  padding: 14px;
+}
