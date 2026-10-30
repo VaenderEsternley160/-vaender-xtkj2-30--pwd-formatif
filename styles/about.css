@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+#about {
+    background-image: url(/assets/images/PEMANDANGAN.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 80px 20px;
+}
+
+.about-box {
+    width: 620px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.about-box h2 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #263b5e;
+}
+
+.about-box p {
+    font-size: 16px;
+    text-align: left;
+    line-height: 1.8;
+}
+
+.about-box .closing {
+    text-align: right;
+    font-style: italic;
+}
+
+.closing {
+    color: blue;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+}
