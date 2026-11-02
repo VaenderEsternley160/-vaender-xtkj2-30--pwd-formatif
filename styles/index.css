@@ -1,3 +1,5 @@
+/* mengatur background, font, dan layout untuk seluruh halaman */
+
 body {
   margin: 0;
   background-color: #f5f7fa;
@@ -26,6 +28,8 @@ main {
 main a {
   color: #e8943a;
 }
+
+/* mengatur layout dan font pada footer */
 
 footer {
   font-size: 12px;
