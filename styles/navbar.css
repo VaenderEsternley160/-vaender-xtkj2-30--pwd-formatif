@@ -40,3 +40,7 @@ body {
 .nav-menu a:hover {
   color: #f4c430;
 }
+
+main, footer {
+  padding: 17px;
+}
