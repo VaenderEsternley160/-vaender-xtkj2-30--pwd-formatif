@@ -1,10 +1,14 @@
+/* font */
+
 body {
     font-family: 'Open Sans', sans-serif;
     margin: 0;
 }
 
+/* latar belakang */
+
 #about {
-    background-image: url(/assets/images/PEMANDANGAN.jpg);
+    background-image: url(/assets/images/pemandangan.jpg);
     background-size: cover;
     background-position: center;
     padding: 80px 20px;
@@ -17,6 +21,9 @@ body {
     padding: 25px;
     border-radius: 10px;
 }
+
+
+/* bagian teks */
 
 .about-box h2 {
     font-family: 'Poppins', sans-serif;
@@ -36,7 +43,7 @@ body {
 }
 
 .closing {
-    color: blue;
+    color: rgb(0, 0, 255);
 }
 
 footer {
