@@ -6,7 +6,7 @@ body {
 #hero {
   height: 400px;
   background-color: #6b4f2a;
-  background-image: url("/assets/images/HERO.jpg");
+  background-image: url("/assets/images/hero.jpg");
   background-size: cover;
   background-position: center;
   text-align: center;
